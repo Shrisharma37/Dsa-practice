@@ -1,5 +1,3 @@
-package basic_maths;
-
 public class count_digit {
     public static int countDigit(int n){
         int a=n;
